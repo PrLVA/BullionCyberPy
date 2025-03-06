@@ -1,5 +1,4 @@
-# Precios de Oro y Plata - La Dobla Bullion
-
+# Precios de Oro y Plata 
 Esta es una aplicación en Python que muestra los precios en tiempo real de monedas y lingotes de oro y plata . Utiliza la API de CoinGecko para obtener los precios spot del oro (PAX Gold) y la plata (Kinesis Silver), calcula los precios de los productos basándose en su peso y prima, y los presenta en una interfaz gráfica creada con Tkinter.
 
 ## Características
